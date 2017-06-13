@@ -1,0 +1,28 @@
+{
+  "name": "helix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+  	"babel-cli": "*",
+		"babel-core": "*",
+		"babel-eslint": "*",
+		"babel-plugin-syntax-flow": "*",
+		"babel-plugin-transform-flow-strip-types": "*",
+		"babel-preset-env": "*",
+		"babel-preset-stage-0": "*",
+		"eslint": "*",
+		"eslint-config-airbnb": "*",
+		"eslint-plugin-flowtype": "*",
+		"eslint-plugin-import": "*",
+		"flow-bin": "*",
+		"flow-typed": "*",
+		"jest": "*"
+  }
+}

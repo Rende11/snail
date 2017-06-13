@@ -1,0 +1,5 @@
+dist
+*swp
+node_modules
+*.log
+jest_0
